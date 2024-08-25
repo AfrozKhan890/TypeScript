@@ -8,7 +8,7 @@
 // • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
 let watch = "luxury";
-console.log(" \n ----> True Statements. <----\n");
+console.log(" \n ----> True Statements.\n");
 //Test 01
 console.log("Is watch =='luxury'? I predict True.");
 console.log(watch == 'luxury');
@@ -24,7 +24,7 @@ console.log(watch.length > 4);
 //Test 05
 console.log("Does watch start with 'l'? I predict True.");
 console.log(watch.startsWith('l'));
-console.log(" \n ----> False Statements. <----\n");
+console.log(" \n ----> False Statements.\n");
 //Test 01
 console.log("Is watch =='luxury'? I predict False.");
 console.log(watch != 'luxury');
@@ -38,5 +38,5 @@ console.log(watch.length < 4);
 console.log("Is the length of watch <= 6 ? I predict False");
 console.log(watch.length < 6);
 //Test 05
-console.log("Does watch start with 'l'? I predict True.");
+console.log("Does watch start with 'y'? I predict False.");
 console.log(watch.startsWith('y'));
