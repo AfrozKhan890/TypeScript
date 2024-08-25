@@ -54,5 +54,5 @@ console.log(watch.length < 6);
 
 
 //Test 05
-console.log("Does watch start with 'l'? I predict True.");
+console.log("Does watch start with 'y'? I predict False.");
 console.log(watch.startsWith('y'));
