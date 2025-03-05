@@ -1,0 +1,19 @@
+🚀 Code Achievement Alert! 🚀
+
+Today, I challenged myself by building a fun "Guess the Number" game in TypeScript, where a random number between 1 and 100 is generated, and the user tries to guess it with feedback on each attempt. 🎯
+
+This project helped me solidify my understanding of:
+
+Handling user input in TypeScript using readline
+
+Conditional logic for comparing guesses
+
+Recursive functions for repeated guessing attempts
+
+I'm excited about how far I’ve come in TypeScript development and look forward to more projects that push my coding skills to the next level! 💻🔥
+
+#TypeScript #Programming #CodeSnippet #JavaScript #ProgrammingJourney #Developer #WebDevelopment
+
+#LearnToCode  #TechSkills
+
+#ziakhan 
