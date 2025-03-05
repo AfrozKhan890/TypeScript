@@ -1,0 +1,21 @@
+{
+  "name": "guessing_number",
+  "version": "1.0.0",
+  "description": "Guess the Number",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"Afroz Khan\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  }
+}
